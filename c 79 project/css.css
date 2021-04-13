@@ -1,0 +1,14 @@
+#div1{
+width: 49%;
+float: left;
+text-align: center;
+}
+#div2{
+    width: 49%;
+    float: right;
+    text-align: center;
+    }
+    #para12{
+        clear: both;
+        text-align: center;
+    }
